@@ -39,6 +39,9 @@ Total Pizzas Sold / Total Number of Orders
 
 ---
 
+DATASET : 
+<a href = "https://drive.google.com/drive/folders/1ecpBALfFUMSK-GOnk-X4nZhC_uK18zih"> Pizza Sales Data</a>
+
 DASHBOARD :
 
 <img width="1239" height="707" alt="image" src="https://github.com/user-attachments/assets/e4066d31-5a29-43d2-bbde-068e076a9954" />
