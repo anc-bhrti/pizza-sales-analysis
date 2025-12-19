@@ -47,4 +47,37 @@ DASHBOARD :
 <img width="1239" height="707" alt="image" src="https://github.com/user-attachments/assets/e4066d31-5a29-43d2-bbde-068e076a9954" />
 
 
+## 📊 Insights
+
+📅 Busiest Days and Times :
+
+Orders are highest on weekends, particularly on Friday and Saturday evenings.
+
+Peak order hours are between 12:00 PM – 1:00 PM and after 4:00 PM until 8:00 PM.
+
+📊 Sales by Category and Size :
+
+Category
+
+- The Classic category contributes the maximum sales and highest number of total orders.
+
+Size
+
+- Large-size pizzas contribute the maximum share of total sales.
+
+🏆 Best & Worst Sellers
+
+Best Sellers
+
+- Classic Deluxe Pizza
+
+Chicken Pizza
+
+- These pizzas are the top sellers and major revenue generators.
+
+Worst Seller
+
+- The Brie Carre Pizza
+- This pizza ranks lowest in both total orders and revenue.
+
 
