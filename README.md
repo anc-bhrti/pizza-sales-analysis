@@ -80,4 +80,27 @@ Worst Seller
 - The Brie Carre Pizza
 - This pizza ranks lowest in both total orders and revenue.
 
+5️⃣ Customer Buying Behavior
+
+Customers tend to:
+
+- Order more than one pizza per order
+
+- Prefer Classic flavors and Large sizes
+  
+👉 This shows a preference for value-driven and familiar choices.
+
+
+## BUSINESS RECOMMENDATIONS 
+
+- Focus marketing efforts on weekends and peak hours.
+- Promote Classic category and Large-size pizzas through combos.
+- Leverage top-selling pizzas as flagship products.
+- Review underperforming items to improve profitability.
+
+
+
+
+
+
 
