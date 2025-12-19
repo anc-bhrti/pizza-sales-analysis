@@ -38,3 +38,10 @@ Total Pizzas Sold / Total Number of Orders
 
 
 ---
+
+DASHBOARD :
+
+<img width="1239" height="707" alt="image" src="https://github.com/user-attachments/assets/e4066d31-5a29-43d2-bbde-068e076a9954" />
+
+
+
